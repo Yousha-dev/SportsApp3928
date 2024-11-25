@@ -10,7 +10,6 @@ SportsApp3928 is a React Native application that displays cricket and tennis mat
 - Navigation between different screens
 - Fetch data from APIs
 
-## Screenshots
+## Video Demo
 
-![Home Screen](screenshots/home.png)
-![Details Screen](screenshots/details.png)
+[![Watch the video](sportsapp3928.mp4)
